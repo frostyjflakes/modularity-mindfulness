@@ -1,0 +1,23 @@
+html {
+  font-family: "Noto Sans", sans-serif;
+  font-family: "Noto Sans Japanese", sans-serif;
+}
+
+nav li a {
+  text-decoration: none;
+  color: #b64c6e;
+  border-bottom: solid 2px #d89fb0;
+}
+
+.gray {
+  border-bottom: solid 2px #e2e2e2;
+}
+
+.btn-ghost {
+  text-decoration: none;
+  color: #b64c6e;
+  border: solid;
+  border-width: 2px;
+  border-color: #d89fb0;
+  border-radius: 4px;
+}
