@@ -9,6 +9,11 @@ nav li a {
   border-bottom: solid 2px #d89fb0;
 }
 
+nav li a:hover {
+  color: #860927;
+  border-bottom: solid 2px #860927;
+}
+
 .gray {
   border-bottom: solid 2px #e2e2e2;
 }
@@ -20,4 +25,10 @@ nav li a {
   border-width: 2px;
   border-color: #d89fb0;
   border-radius: 4px;
+}
+
+.btn-ghost:hover {
+  color: #860927;
+  border-color: #860927;
+  background-color: #860927;
 }
